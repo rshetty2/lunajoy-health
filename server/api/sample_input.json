@@ -1,0 +1,6 @@
+
+{"patient_id": 1 , "record_Date": "10/08/2024", "mood_level": 4,
+"anxiety_level": 4 , "sleep_hours": 8, "sleep_quality": 5,
+"sleep_disturbance": "Y" , "activity_type": "GYM", "activity_duration": 2,
+"social_frequency": 4, "stress_level": 8, "symptom_type": "Pain", "symptom_level": 6
+}
